@@ -1,8 +1,8 @@
 <h1> Amigo Secreto (Secret Friend) Web App </h1>
 
-- Estado del proyecto: en proceso de ejecución.
+- Estado del proyecto: Terminado.
 
-- 📝 Descripción del Proyecto
+- 📝 Descripción del Proyecto:
 Amigo Secreto es una aplicación web interactiva que permite a los usuarios organizar un sorteo de amigo secreto de manera fácil y divertida. Con una interfaz simple e intuitiva, los usuarios pueden agregar nombres, gestionar su lista de participantes y realizar un sorteo aleatorio con un solo clic.
  
 ✨ Características Principales
@@ -48,15 +48,8 @@ La aplicación está diseñada para funcionar perfectamente en:
 •	Dispositivos móviles
 •	Tablets
 •	Computadoras de escritorio
-🐛 Problemas Conocidos
-•	No hay problemas significativos al momento
-📋 Próximas Mejoras
-•	[ ] Guardar lista de participantes en el almacenamiento local
-•	[ ] Opción de exportar/importar lista de participantes
-•	[ ] Modo oscuro
-•	[ ] Personalización de temas
+
 📧 Contacto
-Yeikol Zúñiga Vargas - yeikol1984@gmail.com
-Enlace del Proyecto: https://github.com/tu-usuario/amigo-secreto
-________________________________________
-⭐ Si este proyecto te ha sido útil, ¡considera darle una estrella! 🌟
+Si necesitas más información sobre este proyecto puedes conestar conmigo a mi Linkedin: https://www.linkedin.com/in/yeikol-alberto-z%C3%BA%C3%B1iga-vargas-a1770a60/
+Enlace del Proyecto: https://github.com/yezuva/Sistema_Establecer_Amigo_Secreto.git
+
